@@ -1,0 +1,18 @@
+#
+iclib delay_inverter_network symbol
+I46
+#
+analogLib cap symbol
+C2
+#
+analogLib vdc symbol
+V1
+#
+analogLib vpulse symbol
+V0
+#ISCELL
+basic vdd symbol
+I1
+#ISCELL
+basic gnd symbol
+I2
