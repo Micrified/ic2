@@ -1,0 +1,21 @@
+#
+cccc schmitt symbol
+I11
+#
+cccc inv symbol
+I10
+#
+analogLib cap symbol
+C0
+#
+analogLib vdc symbol
+V2
+#
+analogLib vpulse symbol
+V0
+#ISCELL
+basic VDD symbol
+I1
+#ISCELL
+analogLib gnd symbol
+I3
