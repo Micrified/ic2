@@ -1,5 +1,9 @@
 #
+cccc tspc_req_neg symbol
+I4
+#
 analogLib cap symbol
+C1
 C0
 #
 analogLib vpulse symbol
