@@ -12,9 +12,8 @@ cccc schmitt symbol
 I0
 #ISCELL
 basic ipin symbol
-PIN2
-PIN1
 PIN0
+PIN1
 #ISCELL
 basic opin symbol
 PIN3
