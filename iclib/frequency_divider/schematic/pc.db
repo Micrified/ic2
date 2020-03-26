@@ -1,0 +1,21 @@
+#
+iclib tspc_req_neg symbol
+I7
+#
+iclib tspc_reg symbol
+I4
+I3
+#
+iclib or_gate symbol
+I1
+#
+iclib nor_gate symbol
+I0
+#ISCELL
+basic ipin symbol
+PIN3
+PIN2
+PIN0
+#ISCELL
+basic opin symbol
+PIN1

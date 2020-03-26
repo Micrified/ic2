@@ -1,4 +1,7 @@
 #
+iclib xnor symbol
+I3
+#
 analogLib vdc symbol
 V2
 #
@@ -6,11 +9,10 @@ analogLib cap symbol
 C0
 #
 analogLib vpulse symbol
+V4
+V3
 V1
 V0
-#
-iclib xnor-gate symbol
-I0
 #ISCELL
 analogLib gnd symbol
 I1
