@@ -1,0 +1,18 @@
+#
+iclib frequency_divider symbol
+I3
+#
+analogLib vpulse symbol
+V1
+#
+analogLib vdc symbol
+V0
+#
+analogLib cap symbol
+C0
+#ISCELL
+analogLib gnd symbol
+I1
+#ISCELL
+analogLib vdd symbol
+I2
