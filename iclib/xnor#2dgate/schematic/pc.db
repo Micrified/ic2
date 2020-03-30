@@ -1,7 +1,7 @@
 #
-iclib delay_inverter_final symbol
-I2
-I1
+iclib inverse_sync symbol
+I4
+I3
 #
 iclib xnor symbol
 I0

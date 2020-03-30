@@ -1,27 +1,31 @@
 #
-umc90nm N_10_SP symbol
-NM0
-#
-umc90nm P_10_SP symbol
-PM0
+iclib quadrature symbol
+I22
 #
 iclib frequency_divider symbol
-I17
+I21
+#
+iclib xnor-gate symbol
+I20
+#
+iclib delay_inverter_network symbol
+I19
 #
 iclib osci symbol
-I13
-#
-iclib frequency_doubler symbol
-I11
+I18
 #
 analogLib cap symbol
+C1
+C2
+C3
 C0
 #
 analogLib vdc symbol
+V5
+V4
+V3
+V2
 V1
-#ISCELL
-analogLib vdd symbol
-I1
 #ISCELL
 analogLib gnd symbol
 I2

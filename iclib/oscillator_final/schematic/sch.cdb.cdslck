@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      cxrandolph
 HostName                       ee4610.ewi.tudelft.nl
-ProcessIdentifier              16731
-ProcessCreationTime_UTC        1585244091
-ProcessCreationTime_Readable   Thu Mar 26 18:34:51 2020 CET
+ProcessIdentifier              69322
+ProcessCreationTime_UTC        1585562511
+ProcessCreationTime_Readable   Mon Mar 30 12:01:51 2020 CEST
 AppIdentifier                  /data/cad/Cadence/IC5/5.1.41HF143/tools/dfII/bin/icfb.exe
 OSType                         lnx86
-ReasonForPlacingEditLock       XXopen upgrade lock
+ReasonForPlacingEditLock       XXsave write lock
 FilePathUsedToEditLock         /home/nfs/cxrandolph/ic/cell_design/iclib/oscillator_final/schematic/sch.cdb
-TimeEditLocked                 Thu Mar 26 18:57:09 2020 CET
+TimeEditLocked                 Mon Mar 30 13:04:10 2020 CEST

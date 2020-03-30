@@ -1,6 +1,9 @@
 #
-iclib delay_inverter_final symbol
-I1
+umc90nm P_10_SP spectre
+PM0
+#
+umc90nm N_10_SP spectre
+NM0
 #
 iclib nor_gate symbol
 I0

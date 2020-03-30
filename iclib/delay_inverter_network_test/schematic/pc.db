@@ -1,9 +1,9 @@
 #
+iclib inverse_sync symbol
+I47
+#
 iclib delay_inverter_network symbol
 I46
-#
-analogLib cap symbol
-C2
 #
 analogLib vdc symbol
 V1
